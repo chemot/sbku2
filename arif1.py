@@ -11,11 +11,11 @@ from bs4 import BeautifulSoup
 from googletrans import Translator
 import youtube_dl
 #ARIF PERSEMBAHKAN BOT INI BUAT KALIAN YANG MEMANG MEMBUTUHKAN | LIKE & SUBSCRIBE CHANNEL YOUTUBE SAYA : Arifistifik
-#cl = LineClient()
-cl = LineClient(authToken='Evx7aX9igmrbbAvCoIMf.K9hUseF6j4f/WE5DLTHHBW.8cu6k4noj/VDblh9ro6rb5cE7Lxj0F4j3Pqy76h35ME=')
-cl.log("Auth Token : " + str(cl.authToken))
-channel = LineChannel(cl)
-cl.log("Channel Access Token : " + str(channel.channelAccessToken))
+cl = LineClient("EvoKyRI4rE0SwwZuP8Rf.K9hUseF6j4f/WE5DLTHHBW.GPB9/SLIQ4lL1BY5AxNF+UEVKkxqjh1sS8JowJoDbBo=")
+#cl = LineClient(authToken='Evx7aX9igmrbbAvCoIMf.K9hUseF6j4f/WE5DLTHHBW.8cu6k4noj/VDblh9ro6rb5cE7Lxj0F4j3Pqy76h35ME=')
+#cl.log("Auth Token : " + str(cl.authToken))
+#channel = LineChannel(cl)
+#cl.log("Channel Access Token : " + str(channel.channelAccessToken))
 
 poll = LinePoll(cl)
 call = cl
