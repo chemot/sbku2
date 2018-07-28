@@ -12,7 +12,7 @@ from googletrans import Translator
 import youtube_dl
 #ARIF PERSEMBAHKAN BOT INI BUAT KALIAN YANG MEMANG MEMBUTUHKAN | LIKE & SUBSCRIBE CHANNEL YOUTUBE SAYA : Arifistifik
 #cl = LineClient()
-cl = LineClient(authToken='EthvrBvufsKiXqRHS7e5.ELelAycz6M3rL1VnttWz9q.L8eE/8eoWhidLaa/S+Fwi6lkZhiG2vAgE1ZaeGsuXA4=')
+cl = LineClient(authToken='Evx7aX9igmrbbAvCoIMf.K9hUseF6j4f/WE5DLTHHBW.8cu6k4noj/VDblh9ro6rb5cE7Lxj0F4j3Pqy76h35ME=')
 cl.log("Auth Token : " + str(cl.authToken))
 channel = LineChannel(cl)
 cl.log("Channel Access Token : " + str(channel.channelAccessToken))
@@ -103,11 +103,11 @@ wait = {
     "selfbot":True,
     "unsend":False,
     "mention":"Hayoo ngintip -_-",
-    "Respontag":"Tag gua pasti pengen kawin lagi ye khaaan...🙌😂",
-    "welcome":"Grubumuza Hoşgeldiniz",
+    "Respontag":"╭❂➣━━━━━━━━➣\n┃❂ sᴇᴘʀɪ ʜᴀᴅɪʀ ʙᴏss \n╰❂➣━━━━━━━━➣",
+    "welcome":"selamat datang",
     "leave":"NAH LOH BAPER KHAAAN KHAAAN 😂",
     "comment":"Like like & like by DPK_BOT",
-    "message":"#Price List ARIFISTIFIK :\n\n🤖 Bot Python2 :\n🔰 Self Bot Only ⏩ 80K/Bulan\n\n🤖 Bot Python3 :\n🔰 Self Bot Only ⏩ 100K/Bulan\n🔰 Self Bot + 4 Assist ⏩ 200K/Bulan\n🔰 Self Bot + 10 Assist + 2 Ghost + 1 AntiJS ⏩ 450K/Bulan\n\n✍️ Bisa Requests Mau Berapa Assist Buat Py3.\nChat Ke : http://line.me/ti/p/~arif.mh\n\n📃\n* Always on 24 Jam\n* Fitur Banyak\n* Speed Python2 0.06S\n* Speed Python3 0.02S\n# Buat Assist, Pake Akun Dari Kami Harga Beda Lagi.",
+    "message":"#salken ya by.sepri",
     }
 
 read = {
